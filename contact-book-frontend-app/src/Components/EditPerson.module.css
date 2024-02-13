@@ -1,0 +1,57 @@
+
+
+.formContainer {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+  }
+  
+  .formGroup {
+    align-items: center;
+    margin-bottom: 1%;
+  }
+  
+  .labelInputWrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  label {
+    font-size: small;
+    width: 10%; 
+    text-align: right;
+  }
+  
+  .inputError {
+    border: 1px solid red;
+  }
+  
+  input {
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    margin-top: 5%;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error {
+    display: block;
+    color: red;
+    font-size: small;
+    margin-left: 1%; 
+  }
+  

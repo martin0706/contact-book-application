@@ -1,0 +1,6 @@
+/contact-book-frontend-app/node_modules
+/contact-book-frontend-app/build
+/contact-book-frontend-app/dist
+/contact-book-backend-api/target
+/contact-book-backend-api/.idea/
+/contact-book-frontend-app/.vscode/
